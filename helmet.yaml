@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*
+#Created on Mon Jun  6 19:12:48 2022
+
+#@author: zhiyuyang
+
+#helmet.yaml
+train: /project/train/src_repo/dataset/train.txt
+val: /project/train/src_repo/dataset/val.txt
+# number of classes
+nc: 3
+# class names
+names: ['person', 'hat','head']
